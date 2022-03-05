@@ -1,4 +1,4 @@
-# SQU.BA
+# SQU/BA/1
 what was the total number of daily death
 
 
